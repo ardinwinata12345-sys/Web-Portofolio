@@ -1,4 +1,4 @@
-import Container from "../layout/container"
+import Container from "../layout/Container"
 import FadeIn from "../ui/FadeIn"
 
 export default function Metrics() {

@@ -1,5 +1,5 @@
 import { useEffect, useState } from "react"
-import Container from "./container"
+import Container from "./Container"
 
 export default function Navbar() {
   const [active, setActive] = useState("hero")
